@@ -7,25 +7,26 @@ A piano-like keyboard that can play music.
 I used to play the organ and the piano when I was young, so I want to make this a compact 2-in-1, where I can change the sound of each note! Sadly it only contains the white notes, but a lot can be made from these.
 This project was made for the third week of Half Life!
 
-## Features (note: add their functions after writing firmware)
+## Features 
 
-- Three MX switches
-- Two rotary encoders (to adjust the pitch)
+- Three MX switches to play some beats
+- Two rotary encoders (to adjust the pitch and volume)
 - 7 capacitive touch keys (do, re, mi, fa, sol, la, si)
 - 3 LED lights (DJ!)
 
 ## Schematic
-<img width="1216" height="828" alt="image" src="https://github.com/user-attachments/assets/da4364c6-1850-4a76-8a05-23d2accc9728" />
+<img width="1320" height="792" alt="image" src="https://github.com/user-attachments/assets/a5fe27b6-fda5-41fb-9e73-1f42ceb208d3" />
 
 ## PCB 
-<img width="771" height="598" alt="image" src="https://github.com/user-attachments/assets/72ff70ab-a082-4899-b438-8f82778ca1c5" />
+<img width="322" height="289" alt="image" src="https://github.com/user-attachments/assets/1426a5ea-ba9d-4f4d-be4b-b88a38dfc62d" />
 
 ## Case 
 I made a case with a 10 degrees incline using Onshape. It now only has a bottom part, but I plan on making an upper one once I receive the 3d printer (fingers crossed!)
 <img width="1164" height="712" alt="image" src="https://github.com/user-attachments/assets/3f069f66-f305-4ce1-b4cb-f6a5fb4eaec8" />
 
 
-## Firmware (WIP)
+## Firmware 
+Right now it's a bit incomplete but it has the pins connected correctly, I borrowed it from the guide and will change it once I have everything.
 
 ## BOM
 
