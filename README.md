@@ -20,7 +20,8 @@ I used to play the organ and the piano when I was young, so I want to make this 
 <img width="322" height="289" alt="image" src="https://github.com/user-attachments/assets/1426a5ea-ba9d-4f4d-be4b-b88a38dfc62d" />
 
 ## Case 
-I made a case with a 10 degrees incline using Onshape. It now only has a bottom part, but I plan on making an upper one once I receive the 3d printer (fingers crossed!)
+I made a case with a 10 degrees incline using Onshape. It now only has a bottom part, but I plan on making an upper one once I receive the 3d printer (fingers crossed!) </br>
+https://cad.onshape.com/documents/c282bcd66a7a9d71e3e4bdfb/w/ad7d11d41164156ccb4d5c3b/e/60140dd8856affdbad1ca31e
 <img width="1164" height="712" alt="image" src="https://github.com/user-attachments/assets/3f069f66-f305-4ce1-b4cb-f6a5fb4eaec8" />
 
 
