@@ -1,4 +1,8 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Waveshare ESP32-S3-Zero,1,Ali Express,$6.68,$6.68,https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt
-PCB,1,JLCPCB,$9.90,$9.90,https://jlcpcb.com/
-Estimated total shipping,1,,,$3.42,
+Designator,Footprint,Quantity,Value,Supplier,Cost/item,Total Cost,LCSC Part #,Link
+"D1, D2, D3","LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",3,"SK6812MINI-E",,,,,
+"J1","touch",1,"Capacitive Touch Buttons",,,,,
+"SW1, SW4, SW6","SW_Cherry_MX_1.00u_PCB",3,"SW_Push",,,,,
+"SW2, SW3","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",2,"RotaryEncoder_Switch_MP",,,,,
+"U2","Waveshare ESP32-S3-Zero",1,"Waveshare ESP32-S3-ZERO","AliExpress","6.68","6.68",,"https://www.aliexpress.com/item/1005007004089798.html"
+"PCB","",1,"PCB","JLCPCB","9.90","9.90",,"https://jlcpcb.com/"
+"Shipping","",1,"Estimated Shipping","","","3.42","",""
