@@ -5,7 +5,6 @@
 
 A piano-like keyboard that can play music.
 I used to play the organ and the piano when I was young, so I want to make this a compact 2-in-1, where I can change the sound of each note! Sadly it only contains the white notes, but a lot can be made from these.
-This project was made for the third week of Half Life!
 
 ## Features 
 
