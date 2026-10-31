@@ -9,9 +9,3 @@ Designator,Footprint,Quantity,Value,Supplier,Cost/item,Total Cost,LCSC Part #,Li
 "Knobs","",2,"3D Printed Rotary Encoder Knobs","Printing Legion",0.07,0.14,,""
 "Shipping","",1,"Estimated Shipping","",,7.00,,""
 
-"Cost Summary"
-"Item","Cost"
-"Electronics & PCB Subtotal",22.07
-"3D Printed Parts",9.21
-"Shipping",7.00
-"Grand Total",38.28
