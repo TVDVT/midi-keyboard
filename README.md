@@ -29,12 +29,24 @@ Right now it's a bit incomplete but it has the pins connected correctly, I borro
 
 ## BOM
 
-| Designator       | Footprint                                                  | Quantity | Value                    | LCSC Part # |
-|------------------|------------------------------------------------------------|----------|--------------------------|-------------|
-| D1, D2, D3       | LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount            | 3        | SK6812MINI-E             |             |
-| J1               | touch                                                      | 1        | Capacitive Touch Buttons |             |
-| SW1, SW4, SW6    | SW_Cherry_MX_1.00u_PCB                                     | 3        | SW_Push                  |             |
-| SW2, SW3         | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm            | 2        | RotaryEncoder_Switch_MP  |             |
-| U2               | Waveshare ESP32-S3-Zero                                    | 1        | Waveshare ESP32-S3-ZERO  |             |
+| Designator | Footprint | Quantity | Value | Supplier | Cost/item | Total Cost | LCSC Part # | Link |
+|------------|-----------|----------|--------|----------|----------:|-----------:|-------------|------|
+| D1, D2, D3 | LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount | 3 | SK6812MINI-E | AliExpress | $1.12 | $3.36 | — | https://www.aliexpress.us/item/3256807677321116.html |
+| J1 | touch | 1 | Capacitive Touch Buttons | — | — | — | — | — |
+| SW1, SW4, SW6 | SW_Cherry_MX_1.00u_PCB | 3 | SW_Push | AliExpress | $0.23 | $0.69 | — | https://www.aliexpress.com/item/1005009946528694.html |
+| SW2, SW3 | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm | 2 | RotaryEncoder_Switch_MP | AliExpress | $0.72 | $1.44 | — | https://www.aliexpress.us/item/3256807457768762.html |
+| U2 | Waveshare ESP32-S3-Zero | 1 | Waveshare ESP32-S3-ZERO | AliExpress | $6.68 | $6.68 | — | https://www.aliexpress.com/item/1005007004089798.html |
+| PCB | — | 1 | PCB | JLCPCB | $9.90 | $9.90 | — | https://jlcpcb.com/ |
+| Shipping | — | 1 | Estimated Shipping | — | — | $3.42 | — | — |
+
+### Total Cost
+
+| Item | Cost |
+|------|-----:|
+| Components Subtotal | $22.07 |
+| Shipping | $3.42 |
+| **Grand Total** | **$25.49** |
+
+note: I have all the parts except for the PCB and Waveshare
 
 
